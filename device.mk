@@ -59,7 +59,8 @@ PRODUCT_COPY_FILES += \
 
 # Init
 PRODUCT_PACKAGES += \
-    init.ocean.rc
+    init.ocean.rc \
+    init.qcom.rc
 
 # NFC
 PRODUCT_COPY_FILES += \
